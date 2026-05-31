@@ -1,6 +1,11 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any projects <br>🌱 I’m currently learning Java Fullstack development
+Hey there! I’m Sumantha K S, a B.E. AIML student who loves bringing ideas to life with code and creativity.
 
+While I thoroughly enjoy exploring the world of AI and Machine Learning, my development engine runs heavily on Java. I love the challenge of bridging the gap between intelligent algorithms and solid software architecture, using Java to build clean, robust, and efficient solutions. Whether I'm training a smart model or writing structured object-oriented code, I'm always focused on making systems both intelligent and dependable.
+
+When I’m not coding, you’ll find me jamming to music, sketching out ideas, or binge-watching sci-fi shows. I believe in the power of technology to make life better and more fun, and I’m always on the lookout for new challenges to level up my engineering skills.
+
+Feel free to explore my profile and reach out if you want to collaborate or just say hi!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumanth_s_karaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumantha-k-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumanthaskaraba@gmail.com) 
