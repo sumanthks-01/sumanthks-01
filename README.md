@@ -5,7 +5,7 @@ While I thoroughly enjoy exploring the world of AI and Machine Learning, my deve
 
 When I’m not coding, you’ll find me jamming to music, sketching out ideas, or binge-watching sci-fi shows. I believe in the power of technology to make life better and more fun, and I’m always on the lookout for new challenges to level up my engineering skills.
 
-Feel free to explore my profile and reach out if you want to collaborate or just say hi!
+Feel free to explore my profile and reach out if you want to collaborate!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumanth_s_karaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumantha-k-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumanthaskaraba@gmail.com) 
